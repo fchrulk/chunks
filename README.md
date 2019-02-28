@@ -1,6 +1,6 @@
 # Short description
 
-Yield successive n-sized chunks from list.
+Dividing list or dataframe into n-sized chunks.
 
 ## Installing
 ```
