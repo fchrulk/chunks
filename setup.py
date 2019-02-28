@@ -9,5 +9,6 @@ setup(
     author='Fachrul Kurniansyah',
     maintainer='Fachrul Kurniansyah',
     maintainer_email='fchrulk@outlook.com',
-    url='https://github.com/fchrulk/chunks'
+    url='https://github.com/fchrulk/chunks',
+    packages=['chunks']
 )
