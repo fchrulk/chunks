@@ -14,6 +14,6 @@ def chunks(l, n):
     [['a', 'b'], ['c', 'd'], ['e', 'f'], ['g', 'h'], ['i', 'j']]
     """
     new = []
-    for i in range(0, len(l), N):    
-        new.append(l[i:i + N])
+    for i in range(0, len(l), n):    
+        new.append(l[i:i + n])
     return new
